@@ -1,2 +1,2 @@
-# turing-lang
-The Turing Language !
+# Turing Language
+The Turing Language 
